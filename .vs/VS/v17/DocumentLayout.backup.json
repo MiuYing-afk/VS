@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\VS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\VS\\HOMEWORK\\REVIEW_LinearList\\LinkListDemo\\LinkListDemo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HOMEWORK\\REVIEW_LinearList\\LinkListDemo\\LinkListDemo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\VS\\HOMEWORK\\REVIEW_LinearList\\tail1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HOMEWORK\\REVIEW_LinearList\\tail1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\VS\\HOMEWORK\\REVIEW_LinearList\\tail1.exe||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HOMEWORK\\REVIEW_LinearList\\tail1.exe||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LinkListDemo.cpp",
+              "DocumentMoniker": "E:\\VS\\HOMEWORK\\REVIEW_LinearList\\LinkListDemo\\LinkListDemo.cpp",
+              "RelativeDocumentMoniker": "HOMEWORK\\REVIEW_LinearList\\LinkListDemo\\LinkListDemo.cpp",
+              "ToolTip": "E:\\VS\\HOMEWORK\\REVIEW_LinearList\\LinkListDemo\\LinkListDemo.cpp",
+              "RelativeToolTip": "HOMEWORK\\REVIEW_LinearList\\LinkListDemo\\LinkListDemo.cpp",
+              "ViewState": "AgIAALQAAAAAAAAAAAAAAL0AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-26T13:22:38.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "tail1.exe",
+              "DocumentMoniker": "E:\\VS\\HOMEWORK\\REVIEW_LinearList\\tail1.exe",
+              "RelativeDocumentMoniker": "HOMEWORK\\REVIEW_LinearList\\tail1.exe",
+              "ToolTip": "E:\\VS\\HOMEWORK\\REVIEW_LinearList\\tail1.exe",
+              "RelativeToolTip": "HOMEWORK\\REVIEW_LinearList\\tail1.exe",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000165|",
+              "WhenOpened": "2026-03-26T13:18:00.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "tail1.c",
+              "DocumentMoniker": "E:\\VS\\HOMEWORK\\REVIEW_LinearList\\tail1.c",
+              "RelativeDocumentMoniker": "HOMEWORK\\REVIEW_LinearList\\tail1.c",
+              "ToolTip": "E:\\VS\\HOMEWORK\\REVIEW_LinearList\\tail1.c",
+              "RelativeToolTip": "HOMEWORK\\REVIEW_LinearList\\tail1.c",
+              "ViewState": "AgIAALIAAAAAAAAAAAAuwNEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-03-23T12:03:18.881Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

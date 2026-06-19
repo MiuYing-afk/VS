@@ -1,0 +1,31 @@
+#include <stdio.h>
+
+int main() {
+    int s, v;
+    // 输入路程和速度
+    scanf("%d %d", &s, &v);
+
+    // 计算走路时间（向上取整）
+    int walk_time = (s + v - 1) / v;
+    // 总时间（走路时间 + 垃圾分类时间）
+    int total_time = walk_time + 10;
+
+    // 8:00 转换为分钟数
+    int arrive_minutes = 8 * 60;
+    // 计算最晚出发的分钟数
+    int departure_minutes = arrive_minutes - total_time;
+
+    // 处理可能前一天的情况
+    if (departure_minutes < 0) {
+        departure_minutes += 24 * 60;
+    }
+
+    // 转换为小时和分钟
+    int hours = departure_minutes / 60;
+    int minutes = departure_minutes % 60;
+
+    // 按格式输出
+    printf("%02d:%02d\n", hours, minutes);
+
+    return 0;
+}

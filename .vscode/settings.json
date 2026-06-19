@@ -1,0 +1,12 @@
+{
+    "C_Cpp.errorSquiggles": "disabled",
+    "files.associations": {
+        "stdio.h": "c",
+        "code4_2.C": "cpp"
+    },
+    "editor.inlineSuggest.showToolbar": "onHover",
+    "editor.inlineSuggest.enabled": true,
+    "editor.inlineSuggest.minShowDelay": 5000,
+    "editor.inlineSuggest.suppressSuggestions": false,
+    "editor.inlineSuggest.edits.showCollapsed": true
+}

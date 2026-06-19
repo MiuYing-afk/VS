@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\VS\\VS_lianxi\\zuoye4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{90942B95-A252-4841-9841-6672A1D2302C}|zuoye4.vcxproj|E:\\VS\\VS_lianxi\\zuoye4\\code1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{90942B95-A252-4841-9841-6672A1D2302C}|zuoye4.vcxproj|solutionrelative:code1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "code1.c",
+              "DocumentMoniker": "E:\\VS\\VS_lianxi\\zuoye4\\code1.c",
+              "RelativeDocumentMoniker": "code1.c",
+              "ToolTip": "E:\\VS\\VS_lianxi\\zuoye4\\code1.c*",
+              "RelativeToolTip": "code1.c*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-10-20T07:29:05.631Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

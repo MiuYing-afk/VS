@@ -1,0 +1,18 @@
+# 忽略所有exe可执行文件
+*.exe
+
+# VS编译中间文件（你截图里大量vs缓存文件也一起忽略）
+.vs/
+*.vcxproj.user
+*.suo
+*.db
+*.vsidx
+*.json
+*.sln
+*.vcxproj
+*.filters
+
+# C编译产物
+*.obj
+*.o
+*.out
