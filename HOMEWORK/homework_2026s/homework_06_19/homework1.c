@@ -88,14 +88,35 @@ int main() {
 #include "stdio.h"
 #include "stdlib.h"
 
+void StraightSort(int *)
+
 int main()
 {
     int num;
     scanf("%d",&num);
-    int *elements=(int*)malloc(num*sizeof(int));
+    int *elements=(int*)malloc(sizeof(int)*num);
     for(int i=0;i<num;i++){
         scanf("%d",&elements[i]);
     }
 
+    insertionSort(elements,num);
+
+    for(int i=0;i<num;i++){
+        printf("%d",elements[i]);
+        if(i<num-1)printf(" ");
+    }
+    printf("\n");
+
     return 0;
+}
+
+void insertionSort(int *elements,int num){
+    for(int i=1;i<num;i++){
+        int temp=elements[i];
+        int j;
+        for(j=i-1;j>=0&&elements[j]>temp;j--){
+            elements[j+1]=elements[j];
+        }
+        elements[j+1]=temp;
+    }
 }
